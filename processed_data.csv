@@ -1,0 +1,4 @@
+City,Temperature,Humidity,Wind Speed,Weather Condition,Date,Time
+London,0.125,62,0.0,Partly cloudy,2024-11-26,19:23:31
+Singapore,1.0,89,1.0,Partly cloudy,2024-11-26,19:23:32
+Shanghai,0.0,40,1.0,Clear,2024-11-26,19:23:34
